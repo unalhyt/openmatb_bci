@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:labstreaminglayer.readthedocs.io)",
+      "WebFetch(domain:github.com)",
+      "Bash(find:*)",
+      "Bash(cd:*)",
+      "Bash(grep:*)"
+    ]
+  }
+}
